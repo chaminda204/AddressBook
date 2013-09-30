@@ -9,7 +9,6 @@ import java.io.InputStreamReader;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.ApplicationContext;
 
 import com.chaminda.addressbook.domain.AddressBook;
 import com.chaminda.addressbook.domain.Contact;
